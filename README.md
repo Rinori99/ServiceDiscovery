@@ -1,5 +1,5 @@
 # Service Discovery
-Service Discovery is an isolated microservice that is a part of the Education Management System. Its role is to discover the currently running microservices, enable referrencing to them with specified application names, and provide load balancing capabilities for when multiple instances of on service are available.
+Service Discovery is an isolated microservice that is a part of the Education Management System. Its role is to discover the currently running microservices, enable referrencing to them with specified application names, and provide load balancing capabilities when multiple instances of one service are available.
 ## Getting Started
 1. On GitHub, navigate to the main page of the repository.
 2. Under the repository name, click Clone or download.
